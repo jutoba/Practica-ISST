@@ -1,0 +1,10 @@
+POST http://localhost:8080/myApi/tfgs
+Content-Type: application/json
+
+{
+  "alumno": "ys.martin@alumnos.upm.es",
+  "tutor": "ys.martin@upm.es",
+  "titulo": "string",
+  "resumen": "string",
+  "estado": "SOLICITADO"
+}
